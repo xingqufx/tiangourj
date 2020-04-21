@@ -1,6 +1,6 @@
 演示
 
-[![JGAr9K.jpg](https://s1.ax1x.com/2020/04/21/JGAr9K.jpg)](https://imgchr.com/i/JGAr9K)
+![JGAr9K.jpg](https://s1.ax1x.com/2020/04/21/JGAr9K.jpg)
 
 我们是狗，舔狗。基于上一版中的数据，重新设计了舔狗日记。
 
